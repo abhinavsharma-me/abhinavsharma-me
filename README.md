@@ -19,7 +19,7 @@ Building **AI workflows** and **intelligent operational systems** that help ente
 </p>
 
 
- Multi-Agent Systems • LLM Applications • AI Orchestration • Agentic Workflows • Local-First Applications • Cloud-Native Systems • Production AI Systems
+ Multi-Agent Systems • AI Orchestration • Agentic Workflows • Local-First Applications • Cloud-Native Systems • Production AI Systems
 
 
 ### My Works
