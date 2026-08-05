@@ -3,7 +3,7 @@
 Founder of [TrueBases](https://www.truebases.com).
 Building **AI workflows** and **intelligent operational systems** that help enterprises automate work using AI Agents.
 
-I can work efficiently in/with
+I can work efficiently with
 <p>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
