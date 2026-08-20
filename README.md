@@ -1,7 +1,9 @@
 ### Hi 👋, I am Abhinav Sharma
 
-Founder of [TrueBases](https://www.truebases.com).
-Building **AI workflows** and **intelligent operational systems** that help enterprises automate work using AI Agents.
+
+Building **AI workflows** and **intelligent operational systems** for enterprises.
+
+Mainly: • Multi-Agent Systems • AI Orchestration • AI Guardrails • AI Workflows with RAG
 
 I can work efficiently with
 <p>
@@ -16,12 +18,8 @@ I can work efficiently with
 <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white" />
 
 
@@ -33,18 +31,12 @@ I can work efficiently with
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white" />
 <img src="https://img.shields.io/badge/Safetensors-5A29E4?logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 
 </p>
-
-RAG • Agentic AI • Multi-Agent Systems • Function Calling • Model Context Protocol (MCP) • Embeddings • Vector Search • Fine-Tuning • AI Evaluation • AI Orchestration • Memory Systems • AI Guardrails • AI Workflows
 
 
 ### My Works
