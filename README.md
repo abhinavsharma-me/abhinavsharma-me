@@ -1,9 +1,8 @@
 ### Hi 👋, I am Abhinav Sharma
 
 
-Building **AI workflows** and **intelligent operational systems** for enterprises.
+Building Production **AI workflows** and **intelligent systems** for enterprises. Mainly in Multi-Agent Systems • AI Orchestration with Guardrails • AI Workflows with RAG
 
-Mainly: Multi-Agent Systems • AI Orchestration • AI Guardrails • AI Workflows with RAG
 
 I can work efficiently with
 <p>
