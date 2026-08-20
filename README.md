@@ -3,7 +3,7 @@
 
 Building **AI workflows** and **intelligent operational systems** for enterprises.
 
-Mainly: • Multi-Agent Systems • AI Orchestration • AI Guardrails • AI Workflows with RAG
+Mainly: Multi-Agent Systems • AI Orchestration • AI Guardrails • AI Workflows with RAG
 
 I can work efficiently with
 <p>
